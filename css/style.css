@@ -3,3 +3,8 @@
   width: 30%;
   background-color: red;
 }
+
+.photo{
+  float:left;
+  width: 40%;
+}
